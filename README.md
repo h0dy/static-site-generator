@@ -6,10 +6,10 @@ You can see the [website](https://h0dy.github.io/static-site-generator/)
 
 ## Features
 
-- 📝 Converts Markdown files into HTML
-- 📄 Supports generating multiple pages
-- 🖼️ Handles images and links properly
-- ✅ Includes unit tests to ensure functionality (my first time writing unit tests!)
+- Converts Markdown files into HTML
+- Supports generating multiple pages
+- Handles images and links properly
+- Includes unit tests to ensure functionality (my first time writing unit tests!)
 
 ## What I Learned from This Project
 
